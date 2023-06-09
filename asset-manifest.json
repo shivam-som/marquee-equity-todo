@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marquee-equity-todo/static/css/main.e08f929b.css",
+    "main.js": "/marquee-equity-todo/static/js/main.c5978951.js",
+    "static/js/787.63e47474.chunk.js": "/marquee-equity-todo/static/js/787.63e47474.chunk.js",
+    "index.html": "/marquee-equity-todo/index.html",
+    "main.e08f929b.css.map": "/marquee-equity-todo/static/css/main.e08f929b.css.map",
+    "main.c5978951.js.map": "/marquee-equity-todo/static/js/main.c5978951.js.map",
+    "787.63e47474.chunk.js.map": "/marquee-equity-todo/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08f929b.css",
+    "static/js/main.c5978951.js"
+  ]
+}
